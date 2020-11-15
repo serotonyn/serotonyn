@@ -1,7 +1,17 @@
-### Hey there, I'm Youcef - aka Serotonyn
+### Hey there, I'm Youcef - aka `serotonyn`
 
 
 ### Projects
+
+#### 📚 Agatha -- Read Ebooks With Friends (Live Ebook Reader) `on-going` ***nothing to see yet***
+
+##### [repo](https://github.com/serotonyn/agatha)
+##### Technology Stack
+- Typescript
+- Grahql
+- Postgresql
+- HTML
+- CSS
 
 #### 🅿 [Garini](https://park-22003.web.app/) -- Find Parking Spot Next To You
 
@@ -14,16 +24,6 @@
 - Typescript
 - Carbon (IBM UI Kit)
 - SCSS
-
-#### 📚 Agatha -- Read Ebooks With Friends (Live Ebook Reader)
-
-##### [repo](https://github.com/serotonyn/agatha)
-##### Technology Stack
-- Typescript
-- Grahql
-- Postgresql
-- HTML
-- CSS
 
 #### 📮 Multi-Topics-Chat -- Prototype Of A Messaging App That Lets You Create Topics ([client]()/[server]())
 
