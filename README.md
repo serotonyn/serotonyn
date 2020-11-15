@@ -1,6 +1,42 @@
 ### Hey there, I'm Youcef - aka Serotonyn
 
 
+### Projects
+
+#### [Garini](park-22003.web.app/) -- Find Parking Spot Next To You
+
+##### [repo](https://github.com/serotonyn/garini)
+
+##### Technology Stack
+- React
+- Firebase (Firestore, Auth...)
+- LeafletJS
+- Typescript
+- Carbon (IBM UI Kit)
+- SCSS
+
+#### Agatha -- Read Ebooks With Friends (Live Ebook Reader)
+
+##### [repo](https://github.com/serotonyn/agatha)
+##### Technology Stack
+- Typescript
+- Grahql
+- Postgresql
+- HTML
+- CSS
+
+#### Multi-Topics-Chat -- Prototype Of A Messaging App That Lets You Create Topics ([client]()/[server]())
+
+##### [repo client](https://github.com/serotonyn/multi-topics-chat-client)
+##### [repo server](https://github.com/serotonyn/multi-topics-chat-server)
+
+##### Technology Stack
+- Typescript
+- Grahql
+- Postgresql
+- Evergreen (UI Kit)
+___
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,12 +58,11 @@
 <img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 <img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
+<br/>
+<br/>
 
-<br />
-<br />
+#### Operating systems
 
----
-### Operating systems
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 <img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
