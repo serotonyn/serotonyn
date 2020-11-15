@@ -3,7 +3,7 @@
 
 ### Projects
 
-#### [Garini](park-22003.web.app/) -- Find Parking Spot Next To You
+#### 🅿 [Garini](park-22003.web.app/) -- Find Parking Spot Next To You
 
 ##### [repo](https://github.com/serotonyn/garini)
 
@@ -15,7 +15,7 @@
 - Carbon (IBM UI Kit)
 - SCSS
 
-#### Agatha -- Read Ebooks With Friends (Live Ebook Reader)
+#### 📚 Agatha -- Read Ebooks With Friends (Live Ebook Reader)
 
 ##### [repo](https://github.com/serotonyn/agatha)
 ##### Technology Stack
@@ -25,7 +25,7 @@
 - HTML
 - CSS
 
-#### Multi-Topics-Chat -- Prototype Of A Messaging App That Lets You Create Topics ([client]()/[server]())
+#### 📮 Multi-Topics-Chat -- Prototype Of A Messaging App That Lets You Create Topics ([client]()/[server]())
 
 ##### [repo client](https://github.com/serotonyn/multi-topics-chat-client)
 ##### [repo server](https://github.com/serotonyn/multi-topics-chat-server)
