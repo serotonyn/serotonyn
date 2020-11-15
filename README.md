@@ -3,7 +3,7 @@
 
 ### Projects
 
-#### 🅿 [Garini](park-22003.web.app/) -- Find Parking Spot Next To You
+#### 🅿 [Garini](https://park-22003.web.app/) -- Find Parking Spot Next To You
 
 ##### [repo](https://github.com/serotonyn/garini)
 
