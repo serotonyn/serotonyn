@@ -8,7 +8,7 @@
 ##### [repo](https://github.com/serotonyn/agatha)
 ##### Technology Stack
 - Typescript
-- Grahql
+- GraphQL
 - Postgresql
 - HTML
 - CSS
@@ -35,6 +35,16 @@
 - Grahql
 - Postgresql
 - Evergreen (UI Kit)
+
+#### 🧔 [Portfolio](https://agitated-booth-9df580.netlify.app/) -- Personal Website
+
+##### [repo](https://github.com/serotonyn/PersoWeb)
+
+##### Technology Stack
+- Gatsby
+- React
+- GraphQL
+- SVG Animation
 ___
 
 ### Languages and Tools:
