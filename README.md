@@ -2,7 +2,6 @@
 
 ### Projects (commercialisés)
 
-#### 📚 Agatha -- Read Ebooks With Friends (Live Ebook Reader) `on-going` ***nothing to see yet***
 
 ##### 💼 Elamine -- Logiciel de facturation (développé avec React)
 
@@ -24,6 +23,8 @@
 - Postgresql
 - HTML
 - CSS
+
+#### 📚 Agatha -- Read Ebooks With Friends (Live Ebook Reader) `on-going` ***nothing to see yet***
 
 ##### [repo](https://github.com/serotonyn/PersoWeb)
 
