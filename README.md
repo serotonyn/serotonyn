@@ -5,6 +5,9 @@
 
 ##### 💼 Elamine -- Logiciel de facturation (développé avec React)
 
+<img width="1164" alt="Screenshot 2024-08-01 at 6 44 45 PM" src="https://github.com/user-attachments/assets/ae48d21a-cdf0-47fb-b189-ba4397bf0f38">
+
+
 ##### Technology Stack
 - Typescript
 - Pocketbase (SQL)
