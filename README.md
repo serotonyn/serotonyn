@@ -26,10 +26,7 @@
 - HTML
 - CSS
 
-🏥 KineTwenty -- Prise de RDV pour kinésithérapeute
-
-[TikTok video](https://www.tiktok.com/@codebox.dz/video/7282384689887759622?lang=en)
-
+🏥 [KineTwenty](https://www.tiktok.com/@username/video/1234567890) -- Prise de RDV pour kinésithérapeute
 
 ##### Technology Stack
 - Typescript
