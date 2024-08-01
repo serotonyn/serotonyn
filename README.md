@@ -26,7 +26,7 @@
 - HTML
 - CSS
 
-🏥 [KineTwenty](https://www.tiktok.com/@codebox.dz/video/7282384689887759622?lang=en) -- Prise de RDV pour kinésithérapeute
+##### 🏥 [KineTwenty](https://www.tiktok.com/@codebox.dz/video/7282384689887759622?lang=en) -- Prise de RDV pour kinésithérapeute
 
 ##### Technology Stack
 - Typescript
@@ -34,6 +34,12 @@
 - React
 - HTML
 - CSS
+
+##### 🎧 ltaudio-algerie.com
+
+##### Technology Stack
+- NextJS
+
 
 ### Projects (personnels)
 
