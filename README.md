@@ -26,7 +26,7 @@
 - HTML
 - CSS
 
-🏥 [KineTwenty](https://www.tiktok.com/@username/video/1234567890) -- Prise de RDV pour kinésithérapeute
+🏥 [KineTwenty](https://www.tiktok.com/@codebox.dz/video/7282384689887759622?lang=en) -- Prise de RDV pour kinésithérapeute
 
 ##### Technology Stack
 - Typescript
