@@ -35,7 +35,17 @@
 - HTML
 - CSS
 
-##### 🎧 ltaudio-algerie.com
+##### 🎧 [ltaudio-algerie.com](https://www.ltaudio-algerie.com/fr)
+
+##### Technology Stack
+- NextJS
+
+##### 🚗 ets-kbs.com -- Automotive equipment manufacturer
+
+##### Technology Stack
+- NextJS
+
+##### 🌍 cibachrome-global.com -- Agence de voyage
 
 ##### Technology Stack
 - NextJS
