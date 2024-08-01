@@ -1,40 +1,20 @@
-### Hey there, I'm Youcef - aka `serotonyn`
+### Hey there, I'm Youcef
 
-
-### Projects
+### Projects (commercialisés)
 
 #### 📚 Agatha -- Read Ebooks With Friends (Live Ebook Reader) `on-going` ***nothing to see yet***
 
-##### [repo](https://github.com/serotonyn/agatha)
+##### 💼 Elamine -- Logiciel de facturation (développé avec React)
+
 ##### Technology Stack
 - Typescript
-- GraphQL
-- Postgresql
+- Pocketbase (SQL)
+- React
 - HTML
 - CSS
 
-#### 🅿 [Garini](https://park-22003.web.app/) -- Find Parking Spot Next To You
+### Projects (personnels)
 
-##### [repo](https://github.com/serotonyn/garini)
-
-##### Technology Stack
-- React
-- Firebase (Firestore, Auth...)
-- LeafletJS
-- Typescript
-- Carbon (IBM UI Kit)
-- SCSS
-
-#### 📮 Multi-Topics-Chat -- Prototype Of A Messaging App That Lets You Create Topics ([client]()/[server]())
-
-##### [repo client](https://github.com/serotonyn/multi-topics-chat-client)
-##### [repo server](https://github.com/serotonyn/multi-topics-chat-server)
-
-##### Technology Stack
-- Typescript
-- Grahql
-- Postgresql
-- Evergreen (UI Kit)
 
 #### 🧔 [Portfolio](https://agitated-booth-9df580.netlify.app/) -- Personal Website
 
