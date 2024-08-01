@@ -16,7 +16,14 @@
 ### Projects (personnels)
 
 
-#### 🧔 [Portfolio](https://agitated-booth-9df580.netlify.app/) -- Personal Website
+#### 🧔 [Portfolio](https://agitated-booth-9df580.netlify.app/)
+
+##### Technology Stack
+- Typescript
+- GraphQL
+- Postgresql
+- HTML
+- CSS
 
 ##### [repo](https://github.com/serotonyn/PersoWeb)
 
