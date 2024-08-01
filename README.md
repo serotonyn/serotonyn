@@ -3,10 +3,28 @@
 ### Projects (commercialisés)
 
 
-##### 💼 Elamine -- Logiciel de facturation (développé avec React)
+##### 💼 Elamine -- Logiciel de facturation
 
 <img width="1164" alt="Screenshot 2024-08-01 at 6 44 45 PM" src="https://github.com/user-attachments/assets/ae48d21a-cdf0-47fb-b189-ba4397bf0f38">
 
+
+##### Technology Stack
+- Typescript
+- Pocketbase (SQL)
+- React
+- HTML
+- CSS
+
+##### 🛒 CandyCash -- P.O.S
+
+<img width="1166" alt="Screenshot 2024-08-01 at 6 51 37 PM" src="https://github.com/user-attachments/assets/b961a3df-1b6f-499b-8e7e-bdc0874b98ab">
+
+##### Technology Stack
+- Typescript
+- Pocketbase (SQL)
+- React
+- HTML
+- CSS
 
 ##### Technology Stack
 - Typescript
