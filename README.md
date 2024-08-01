@@ -40,12 +40,13 @@
 ##### Technology Stack
 - NextJS
 
-##### 🚗 ets-kbs.com -- Automotive equipment manufacturer
+##### 🚗 [ets-kbs.com](https://www.ets-kbs.com/en) -- Automotive equipment manufacturer
 
 ##### Technology Stack
 - NextJS
+- SVG Animation (GSAP / Framer Motion)
 
-##### 🌍 cibachrome-global.com -- Agence de voyage
+##### 🌍 [cibachrome-global.com](https://cibachrome-global.com/) -- Agence de voyage
 
 ##### Technology Stack
 - NextJS
